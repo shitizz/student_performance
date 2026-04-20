@@ -42,12 +42,20 @@ The results show strong alignment between predicted and actual CGPA values, indi
 ## 🚀 How to Run
 
 1. Clone the repository:
-  ```bash
+
+```bash
 git clone https://github.com/your-username/cgpa-prediction.git
 cd cgpa-prediction
+```
 
 2. Install dependencies:
-   pip install -r requirements.txt
+
+```bash
+pip install -r requirements.txt
+```
 
 3. Run the notebook:
-   jupyter notebook student.ipynb
+
+```bash
+jupyter notebook student.ipynb
+```

@@ -59,3 +59,12 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook student.ipynb
 ```
+
+## 📈 Key Insights
+1. The model demonstrates strong predictive capability
+2. Residuals confirm good model fit
+3. Minor improvements can be made for high CGPA variance
+
+## 🤝 Contributing
+
+Feel free to fork this repo and submit pull requests.
